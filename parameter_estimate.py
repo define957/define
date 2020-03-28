@@ -3,8 +3,8 @@ import scipy.stats as stats
 import matplotlib.pyplot as plt
 
 
-class Sample(object):
-
+class NormSample(object):
+    
     def __init__(self, x: np.ndarray):
         self.x = x
 
