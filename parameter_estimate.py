@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 
 
 class NormSample(object):
+    """That means the population is normally distributed"""
     
     def __init__(self, x: np.ndarray):
         self.x = x
