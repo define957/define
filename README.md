@@ -1,2 +1,2 @@
-# define
-A Library of draw a graph of statistics based on scipy and matplotlib
+# StatisticsLibary
+A Library of statistics based on scipy and matplotlib
